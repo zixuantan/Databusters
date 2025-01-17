@@ -1,17 +1,9 @@
 # Databusters: The Data Science and Economics Challenge
 
-## Dataset Handling Guidelines
-- The dataset is strictly for the purpose of this competition and should not be used for any other purposes.
-- The dataset must not be shared with anyone outside of the competition, or uploaded to any repositories / cloud storage.
-
 ## GitHub Repository Instructions
 - The forked repository is public by default and it can't be made private. If you wish to collaborate on the project through GitHub, you can create a private repository and add your teammates as collaborators. 
 - [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) is a set of instructions to create a private mirror of the repository.
 - Make sure to make your repository public for your final submission.
-
-## Column Header Descriptions
-
-- `Column Header Name`: Description
 
 ## Submission Instructions
 
