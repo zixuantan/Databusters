@@ -6,6 +6,4 @@
 - Make sure to make your repository public for your final submission.
 
 ## Submission Instructions
-
-- Rename the submission notebook as "NUS_DSESC_CASE_COMP_\<TEAM NAME\>.ipynb". For example, if your team name is "TEAM1", your submission notebook should be named as "NUS_DSESC_CASE_COMP_TEAM1.ipynb". \
-Note: Each team should only submit one notebook and the notebook should be in the `master` branch.
+- Rename the submission notebook as "NUS_DSESC_DATABSTERS_\<TEAM NAME\>.ipynb". For example, if your team name is "TEAM1", your submission notebook should be named as "NUS_DSESC_DATABUSTERS_TEAM1.ipynb". \ You are allowed to modify the template in the submission notebook, but remember to ensure that your codes run. Your codes can be in either R / Python.
