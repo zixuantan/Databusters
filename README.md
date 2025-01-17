@@ -17,4 +17,4 @@ Alternatively, after forking your repository, you can choose to collaborate on t
 - Rename the submission notebook as "NUS_DSESC_DATABUSTERS_\<TEAMNAME\>.ipynb". For example, if your team name is "TEAM1", your submission notebook should be named as "NUS_DSESC_DATABUSTERS_TEAM1.ipynb".
 - You are allowed to modify the template in the submission notebook, but remember to ensure that your codes run.
 - Your codes can be in either R / Python.
-- You are encouraged to keep your repository private. Only the final code submission notebook needs to be submitted, your repository does not need to be shared.
+- You are encouraged to keep your repository private. Only the final code submission notebook needs to be submitted, your repository does not need to be shared (to be confirmed).
