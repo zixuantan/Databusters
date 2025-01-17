@@ -3,7 +3,18 @@
 ## GitHub Repository Instructions
 - The forked repository is public by default and it can't be made private. If you wish to collaborate on the project through GitHub, you can create a private repository and add your teammates as collaborators. 
 - [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) is a set of instructions to create a private mirror of the repository.
-- Make sure to make your repository public for your final submission.
 
+Alternatively, after forking your repository, you can choose to collaborate on the project via Google CoLab.
+  1. Go to https://colab.research.google.com/.
+  2. Click on Open notebook > Github.
+  3. Copy the link of your submission notebook eg https://github.com/dsesc-acads/Databusters/blob/main/NUS_DSESC_DATABUSTERS_TEAMNAME.ipynb
+  4. Colab should be able to search for the correct notebook in github and you can click to open it.
+  5. Add members by sharing the link (similar to google docs) to collaborate on the project.
+  6. Under Runtime > Change runtime type, you can choose whether your code is running in R / Python.
+  7. After completing the project, click on File > Save. You will be prompted to select your repository and branch to save in, after which the modified submission notebook will be saved in your repository.
+ 
 ## Submission Instructions
-- Rename the submission notebook as "NUS_DSESC_DATABSTERS_\<TEAM NAME\>.ipynb". For example, if your team name is "TEAM1", your submission notebook should be named as "NUS_DSESC_DATABUSTERS_TEAM1.ipynb". \ You are allowed to modify the template in the submission notebook, but remember to ensure that your codes run. Your codes can be in either R / Python.
+- Rename the submission notebook as "NUS_DSESC_DATABSTERS_\<TEAMNAME\>.ipynb". For example, if your team name is "TEAM1", your submission notebook should be named as "NUS_DSESC_DATABUSTERS_TEAM1.ipynb".
+- You are allowed to modify the template in the submission notebook, but remember to ensure that your codes run.
+- Your codes can be in either R / Python.
+- You are encouraged to keep your repository private. Only the code submission notebook needs to be submitted, your repository does not need to be shared.
