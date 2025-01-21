@@ -15,6 +15,7 @@ Alternatively, after forking your repository, you can choose to collaborate on t
  
 ## Submission Instructions
 - Rename the submission notebook as "NUS_DSESC_DATABUSTERS_\<TEAMNAME\>.ipynb". For example, if your team name is "TEAM1", your submission notebook should be named as "NUS_DSESC_DATABUSTERS_TEAM1.ipynb".
-- You are allowed to modify the template in the submission notebook, but remember to ensure that your codes run.
-- Your codes can be in either R / Python.
+- You are allowed to modify the template in the submission notebook, but remember to ensure that your codes run. In the event that your code does not run, we may return to you for amendments, but there may be penalties.
+- Your codes can be in either R, Python or Stata.
 - You are encouraged to keep your repository private until the final submission, after which you will share the repository link with us.
+- NOTE: Use of Generative AI in your code must be declared (in the report). You are allowed to use AI for refining code or improving writing, but analysis should not be done solely on AI. Failure to do so will result in penaltes.
