@@ -10,7 +10,7 @@ Alternatively, after forking your repository, you can choose to collaborate on t
   3. Copy the link of your submission notebook eg https://github.com/dsesc-acads/Databusters/blob/main/NUS_DSESC_DATABUSTERS_TEAMNAME.ipynb
   4. Colab should be able to search for the correct notebook in github and you can click to open it.
   5. Add members by sharing the link (similar to google docs) to collaborate on the project.
-  6. Under Runtime > Change runtime type, you can choose whether your code is running in R / Python.
+  6. Under Runtime > Change runtime type, you can choose whether your code is running in R / Python (Stata is unavailable in Colab).
   7. After completing the project, click on File > Save. You will be prompted to select your repository and branch to save in, after which the modified submission notebook will be saved in your repository.
  
 ## Submission Instructions
