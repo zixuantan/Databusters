@@ -14,7 +14,7 @@ Alternatively, after forking your repository, you can choose to collaborate on t
   7. After completing the project, click on File > Save. You will be prompted to select your repository and branch to save in, after which the modified submission notebook will be saved in your repository.
  
 ## Submission Instructions
-- Rename the submission notebook as "NUS_DSESC_DATABUSTERS_\<TEAMNAME\>.ipynb". For example, if your team name is "TEAM1", your submission notebook should be named as "NUS_DSESC_DATABUSTERS_TEAM1.ipynb".
+- Rename the submission notebook as "NUS_DSESC_DATABUSTERS_XX.ipynb". For example, if your team name is "TEAM 01", your submission notebook should be named as "NUS_DSESC_DATABUSTERS_01.ipynb".
 - You are allowed to modify the template in the submission notebook, but remember to ensure that your codes run. In the event that your code does not run, we may return it to you for amendments, but there may be penalties given.
 - Your codes can be in either R, Python or Stata.
 - You are encouraged to keep your repository private until the final submission, after which you will share the repository link with us.
